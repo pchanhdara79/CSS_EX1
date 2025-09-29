@@ -1,10 +1,10 @@
-.semesters-list {
+.external-list {
     list-style-type: none;
-    color: hsl(259, 50%, 50%);
+    color: hwb(222 8% 49%);
     font-family: sans-serif;
 }
 
-.semesters {
+.external-list {
     font-weight: normal;
     border-style: solid;
     border-color: hsl(0, 0%, 0%);
@@ -13,7 +13,7 @@
     margin-bottom: 10px;
 }
 
-.semesters-heading {
+.external-heading {
     font-weight: normal;
     margin: 0px;
     margin-bottom: 10px;
@@ -22,6 +22,6 @@
     border-bottom-width: 4px;
 }
 
-.semesters-class-list {
+.external-food-list {
     list-style-type: none;
 }
