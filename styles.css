@@ -1,0 +1,27 @@
+.semesters-list {
+    list-style-type: none;
+    color: hsl(259, 50%, 50%);
+    font-family: sans-serif;
+}
+
+.semesters {
+    font-weight: normal;
+    border-style: solid;
+    border-color: hsl(0, 0%, 0%);
+    border-width: 2px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.semesters-heading {
+    font-weight: normal;
+    margin: 0px;
+    margin-bottom: 10px;
+    border-bottom-style: dotted;
+    border-bottom-color: hsl(0, 0%, 0%);
+    border-bottom-width: 4px;
+}
+
+.semesters-class-list {
+    list-style-type: none;
+}
