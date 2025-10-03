@@ -5,10 +5,13 @@ html {
 
 /* Site name with borders */
 .site-name {
+    font-weight: bold;
     color: #82bfb7;
     border: 4px solid #f2a2bd;
+    padding: 10px;
+    text-align: center;
     border-radius: 10px;
-    padding: 5px 10px;
+    color: #003366; 
 }
 
 /* Main (global) navigation */
@@ -28,4 +31,15 @@ html {
 /* Example text color styling */
 p {
     color: #f2a2bd;
+}
+
+/* Page Styling */
+.page-title {
+  font-weight: bold;
+  background-color: #b3d9ff; /* light baby blue */
+  border: 3px solid #3399ff; /* slightly darker blue border */
+  padding: 10px;
+  text-align: center;
+  border-radius: 10px; /* rounded corners */
+  color: #003366; /* dark navy text for contrast */
 }
