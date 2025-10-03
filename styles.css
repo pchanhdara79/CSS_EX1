@@ -43,3 +43,14 @@ p {
   border-radius: 10px; /* rounded corners */
   color: #003366; /* dark navy text for contrast */
 }
+
+/* Subpage Title Styling */
+.subpage-title {
+  font-weight: bold;
+  background-color: #fed3dd; /* light pink background */
+  border: 3px solid #82bfb7; /* teal border */
+  padding: 10px;
+  text-align: center;
+  border-radius: 10px;
+  color: #82bfb7; /* teal text */
+}
