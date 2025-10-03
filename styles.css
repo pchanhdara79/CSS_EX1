@@ -1,27 +1,31 @@
-.food {
-    list-style-type: none;
-    color: hwb(222 8% 49%);
-    font-family: sans-serif;
+/* Background color of the site */
+html {
+    background-color: #f0f9f8;
 }
 
-.food {
-    font-weight: normal;
-    border-style: solid;
-    border-color: hsl(0, 0%, 0%);
-    border-width: 2px;
+/* Site name with borders */
+.site-name {
+    color: #82bfb7;
+    border: 4px solid #f2a2bd;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+/* Main (global) navigation */
+.main-nav {
+    background-color: #fed3dd;
     padding: 10px;
-    margin-bottom: 10px;
-}
-
-.food {
-    font-weight: normal;
-    margin: 0px;
-    margin-bottom: 10px;
-    border-bottom-style: dotted;
-    border-bottom-color: hsl(0, 0%, 0%);
-    border-bottom-width: 4px;
-}
-
-.food{
     list-style-type: none;
+}
+
+/* Local navigation (different color from global nav) */
+.local-nav {
+    background-color: #c6e6e3;
+    padding: 10px;
+    list-style-type: none;
+}
+
+/* Example text color styling */
+p {
+    color: #f2a2bd;
 }
